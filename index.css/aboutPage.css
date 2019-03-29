@@ -1,0 +1,143 @@
+#about{
+	font-weight: 200;
+	line-height: 1.5em;
+	letter-spacing: normal;
+	color: #800000;
+}
+
+.container {
+  position: relative;
+  font-family: Arial;
+}
+
+.text-block1 {
+  position: absolute;
+  bottom: 40px;
+  letter-spacing: normal;
+  max-width: inherit;
+  text-align: center;
+  line-height: 1.25em;
+  text-shadow: 0 1px 0 #000;
+  color: white;
+  padding-left: 50px;
+  display: inline-block;
+  width: 100%;
+  font-size: 2.875em;
+}
+
+#text{
+  padding-bottom: 10px;
+  font-size: 20px;
+}
+#stylenone{
+  color: #800000;
+  font-size: 14px;
+  padding: 2px;
+  line-height: 2.4;
+  list-style-type: none;
+  }
+
+#paragraph{
+  font-weight: 400;
+  font-style: normal;
+  font-size: 1.125em;
+  line-height: 1.5em;
+  letter-spacing: normal;
+  padding: 0 !important;
+  margin-bottom: 1.3em;
+  color: #4d4d4d;
+}
+
+.bottom {
+  border-top: 1px solid silver;
+  width: 250px;
+  padding: 10px;
+  margin-bottom: 0px;
+}
+
+.bottom1{
+  border-top: 1px solid silver;
+  width: 250px;
+  padding: 10px;
+  margin-bottom: 15px;
+}
+
+.image{
+  position: center;
+  padding-right: 10px;
+  padding-bottom: 20px;
+}
+
+.aboutpar{
+  margin-top: 1em;
+  line-height: 2em;
+  margin-bottom: 2em;
+  font:inherit;
+  font-size: 17px;
+}
+
+.inquiry{
+  text-align: center;
+  color: #800000;
+}
+
+.basicheading{
+  font-weight: 300;
+  font-style: normal;
+  font-size: 1.3em;
+  line-height: 1.5em;
+  letter-spacing: normal;
+  color: #fff;
+  padding: .1666em .3333em;
+  margin-left: 10%;
+  display: inline-block;
+  background: #b56020;
+}
+.motoheading{
+  margin-top: 1em;
+  margin-bottom: 0.25em;
+  font-weight: 700;
+  font-style: oblique;
+  font-size: 1.275em;
+  line-height: 1.5em;
+  letter-spacing: normal;
+  color: inherit;
+  /*margin-block-start: 1em;
+  margin-block-end: 1em;*/
+  /*text-rendering: optimizelegibility;*/
+}
+
+.motoparagraph{
+  font-size: 0.75em;
+  margin-top: 0.25em;
+  margin-bottom: 1.5em;
+  font: inherit;
+  vertical-align: baseline;
+  display:block;
+}
+
+#paragraph1{
+  font-weight: 400;
+  font-style: normal;
+  font-size: 1.125em;
+  line-height: 1.5em;
+  letter-spacing: normal;
+  padding: 0 !important;
+  margin-bottom: 1.3em;
+  color: #4d4d4d;
+  margin-top: 10px;
+}
+
+#explore{
+    padding: 16px;
+}
+#explorecontainer{
+   position: relative;
+}
+.explorebottomleft {
+    position: absolute;
+    bottom: 80px;
+    left: 16px;
+    font-size: 18px;
+    color: #800000;
+}

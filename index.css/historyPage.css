@@ -1,0 +1,67 @@
+#about{
+	font-weight: 200;
+	line-height: 1.5em;
+	letter-spacing: normal;
+	color: #800000;
+}
+#paragraph{
+  font-weight: 400;
+  font-size: 40px;
+  font-style: normal;
+  font-size: 1.125em;
+  line-height: 1.5em;
+  letter-spacing: normal;
+  padding: 0 !important;
+  margin-bottom: 1.3em;
+  color: #4d4d4d;
+}
+#stylenone{
+  color: #800000;
+  font-size: 14px;
+  padding: 2px;
+  line-height: 2.4;
+  list-style-type: none;
+}
+.historyheading{
+	font-size: 1.5em;
+    color: #896137;
+    font-weight: 300;
+    font-style: normal;
+    font-size: 1.5em;
+    line-height: 1.5em;
+    letter-spacing: normal;
+    margin-bottom: 1em;
+    clear: both;
+}
+
+.historypar{
+	margin-top: 1em;
+    line-height: 2em;
+    margin-bottom: 2em;
+    font: inherit;
+    font-size: 17px;
+}
+
+.imageparagraph{
+	margin-top: .625em;
+	color: black;
+}
+
+.bottomline{
+  border-top: 1px solid silver;
+  width: 250px;
+  padding: 10px;
+  margin-bottom: 15px;
+}
+
+#relatedlink{
+  font-weight: 400;
+  font-style: normal;
+  font-size: 1.125em;
+  line-height: 1.5em;
+  letter-spacing: normal;
+  padding: 0 !important;
+  margin-bottom: 1.3em;
+  color: #4d4d4d;
+  margin-top: 10px;
+}
